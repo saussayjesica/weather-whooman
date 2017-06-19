@@ -14,4 +14,4 @@ https://weather-whooman-vzsddaszxd.now.sh
 
 # Weather Whooman Testing
 
-Clome git repository and open index.html with any browser
+Clone the git repository and open index.html with any browser
